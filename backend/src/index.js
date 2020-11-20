@@ -12,11 +12,13 @@ app.get('/api/users', (req, res) => {
       name: 'test',
       id: 1,
       age: 32,
+      salary: 100,
     },
     {
       name: 'hello',
       id: 2,
       age: 32,
+      salary: 200
     },
   ]);
 });
