@@ -5,6 +5,7 @@
      <el-table-column prop="id" key="id" label="ID" > </el-table-column>
      <el-table-column prop="name" key="name" label="Name" > </el-table-column>
      <el-table-column prop="age" key="age" label="Age" > </el-table-column>
+     <el-table-column prop="Salary" key="Salary" label="Salary" > </el-table-column>
    </el-table>
    <el-button type="primary" size="default" @click="handleClick">go to login</el-button>
    
