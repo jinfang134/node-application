@@ -22,6 +22,7 @@
 ### 启动后端
 ```
 cd backend
+npm install
 npm run dev
 ```
 `Example app listening at http://localhost:3000` 出现这个就是启动好了
@@ -31,6 +32,7 @@ npm run dev
 ### 启动前端
 ```
 cd frontend
+npm install
 npm run dev
 ```
 出现以下消息就是启动好了：
