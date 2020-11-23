@@ -50,3 +50,10 @@ npm run dev
 - [element-ui](https://element.eleme.io/#/zh-CN/component/installation)
 - [express](https://expressjs.com/en/starter/hello-world.html)
 - [vuejs](https://cn.vuejs.org/v2/guide/)
+- [如何给老婆解释什么是RESTful](https://zhuanlan.zhihu.com/p/30396391)
+- [什么是restful](http://restful.p2hp.com/)
+- [flask实现restapi](https://wizardforcel.gitbooks.io/flask-extension-docs/content/flask-restful-2.html)
+- [express 菜鸟](https://www.runoob.com/nodejs/nodejs-express-framework.html)
+  > 教程里的 `cnpm` 可以直接换成 `npm`
+
+
